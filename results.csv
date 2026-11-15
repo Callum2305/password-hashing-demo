@@ -1,0 +1,6 @@
+method,cracked,total_accounts,success_rate_percent,time_seconds,hashes_tried,hashes_per_second
+plaintext,20,20,100.0,0.0,101,19341248.5
+md5,16,20,80.0,0.0002,101,458524.0
+sha1,16,20,80.0,0.0002,101,572322.3
+sha1_salted,16,20,80.0,0.0014,1321,940354.7
+bcrypt,5,20,25.0,60.037,318,5.3
